@@ -1,2 +1,1 @@
-# Red-wine-EDA
-this is my first project
+# RED WINE EXPLORATORY DATA ANALYSIS
